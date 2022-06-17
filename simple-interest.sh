@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # Arnab-Temporary-Side-Account
 
    # Input:
    # p, principal amount
